@@ -1,0 +1,32 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  background-color: white;
+}
+
+header {
+  text-align: center;
+  background-color: #0c5a9f;
+  color: white;
+  padding: 20px;
+}
+
+section {
+  padding: 20px;
+  margin: 20px;
+  background-color: lemonchiffon;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+img {
+  width: 150px;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+#about h2,
+#projects h2,
+#contact h2 {
+  color: #000000;
+}
